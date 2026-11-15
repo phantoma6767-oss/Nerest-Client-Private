@@ -1,14 +1,15 @@
 {
-  "version": "1.1.1",
+  "version": "1.4",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
   "sha256": "8d497cbc604bea379904afeee151e3279599333d23bec4f836cf0b2f389a59fc",
   "size": 23541248,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.1.1",
+  "changelog_title": "Nerest 1.4",
   "changelog": [
-    "Blocking V2 zobens novietots pareizā guļošā pozīcijā slīpi uz leju",
-    "Novērsta vairoga (shield) stāvošā pozīcija",
-    "Pilnīga savietojamība ar visām vecajām un jaunajām palaidēja versijām"
+    "Client updated to 26.52!",
+    "New shader visuals",
+    "New HUD",
+    "New hive bypasses (Aura, Regen, Scaffold)"
   ]
 }
