@@ -1,0 +1,5 @@
+﻿# Nerest-Client-Private
+
+Nerest Client DLL Distribution repository.
+- Version: 1.0.0
+- Target: %appdata%/Nerest/Launcher/Client/Nerest.dll
