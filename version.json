@@ -1,17 +1,1 @@
-﻿{
-  "version": "1.0.9",
-  "name": "Nerest Client",
-  "client_name": "Nerest.dll",
-  "sha256": "CBE0C3333E17FACC7FBDB1EBC22B2EE96182F0630DDA3A0163079D7BBDC6431D",
-  "size": 23541760,
-  "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.4",
-  "changelog": [
-    "Client updated to 26.52!",
-    "Custom main menu",
-    "Shader visuals",
-    "New hud",
-    "Hive bypasses (killaura, regen, scaffold)",
-    "And many more!"
-  ]
-}
+NEREST_ENC_V1:rZQbDIqUPK6rx+qR6pbXZdu9/w9jTnM8+/o8GHNVc5o7CHU83QfP3D7bShODkP/rlmLrtbnEpq+hdS8RVLFztVsKj9geeIAiwUexOvetEMJBs3C+YHwFQQTA4rqKETCd1SRJabwCDVp+ySobgJRkVWIfNR2V4/dngbH9BJ+geme+1a7PfcO2Q1BnnPnAB5F5tssMc7t2w9JR1/d+diu5gIfu0bZAi38lhpGpXCdittIMtqHX1xKTlmN2zfDko09VejbsyaG7fHwoZdMCK/71CnpgolvpcTmYVxMlinOd/GQgzUbkfkKhkvsz3lsanULG5rORCYK7XUW9T9gdGUd2WFCnpSG5WGBe3JQGESGBAQVvSPZ5TD1jiIp5mCGPuq3ardwv8obegXJcOCSGmtC+GZmFTwWl79xzJNctwurUpLtA0tMANiJFlbPExejgeG4ruH/rV+HOxEvszWljG4OMnqDNxqHAyFFAEuJEIYzFZCaf2b8zPmNu8SbXg1mxmd+XKFQWcYjBJfsNZQIJtaHsRokhgqzy7hfzAFSSKNSWhvhC7eGkvP4jU1WAoCtnZidftWkYqnwj4ieQQ5984C5dhDZFCw84tWuL9QvQuRy73+2zR+RYAWk9Br08KyL5RKFlQiVDBl4cwTH34oJGkSNC3+EX7TPycmGBN0R68Oos9aM=
