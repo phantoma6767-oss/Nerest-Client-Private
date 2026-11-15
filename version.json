@@ -2,8 +2,8 @@
   "version": "1.4.1",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "cd5f63cacbf73d331a4c368604bb5dd132c137de21164f35dee3c44aac1a0d15",
-  "size": 23500288,
+  "sha256": "adff9ab3ace46edd95387da3fde7c6d33262527784156f3b9e3374ae428aac4d",
+  "size": 23503360,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
   "changelog_title": "Nerest 1.4.1",
   "changelog": [
