@@ -1,15 +1,15 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "a1a49a47a2810ff7d5bb94d79bf9e145aed7ab23d886bc51af642e01f9ed7560",
-  "size": 23559680,
+  "sha256": "c42813caaaa2243692b1a26deae4311efed6c06fc8d75b5f677a55bdbadb3a68",
+  "size": 27191296,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.4.6",
+  "changelog_title": "Nerest 1.4.7",
   "changelog": [
-    "Client updated to 26.52!",
-    "New shader visuals",
-    "New HUD",
-    "New hive bypasses (Aura, Regen, Scaffold)"
+    "Fixed chat packet fatal crash (TextPacket / PacketUtils)",
+    "Synced latest UI batch: fonts, HUD styles, glass menus, spoofer, baritone",
+    "Restyled SoundCloud GUI and Dynamic Island with LiquidGlass HUD theme",
+    "Restyled CustomChat and LevelInfo with LiquidGlass HUD cards"
   ]
 }
