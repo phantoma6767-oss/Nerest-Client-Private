@@ -1,11 +1,11 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "821157de4d8c4464e654b8ad509b1b7ff83ecf63c7a1b923f7b965a9b5ffafa9",
-  "size": 23558656,
+  "sha256": "ed66702b2a6687217c449ec61b0beb6cb63c23a8fc7ee5b46eda8b23d1ea97ac",
+  "size": 23560192,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.4.4",
+  "changelog_title": "Nerest 1.4.5",
   "changelog": [
     "Client updated to 26.52!",
     "New shader visuals",
