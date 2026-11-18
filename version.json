@@ -1,17 +1,19 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "2d3cd9c870d2aecc991ff7c9a2d2b4c82cfe95863c23505a430e197e670af667",
-  "size": 27153920,
+  "sha256": "34e36afec2009f2b79698d9f9194f894f70c8b624ded8aae1b8cfcdd851ca4a6",
+  "size": 27139072,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.5.1",
+  "changelog_title": "Nerest 1.5.2",
   "changelog": [
-    "Nov\u0113rsta iestat\u012bjumu pane\u013ca neredzam\u012bbas k\u013c\u016bda (labais panelis tagad piln\u012bb\u0101 render\u0113jas bez clipping ierobe\u017eojuma)",
-    "Main GUI modu\u013cu nosaukumi kart\u012bt\u0113s prec\u012bzi nocentr\u0113ti vertik\u0101li pret sl\u0113d\u017eiem un keybind pog\u0101m",
-    "Watermark un SoundCloud Dynamic Island prec\u012bzi nocentr\u0113ti ekr\u0101na vid\u016b un nob\u012bd\u012bti \u0113rt\u0101 att\u0101lum\u0101 no aug\u0161\u0113j\u0101s malas",
-    "Pievienota autom\u0101tiska veco hud.json koordin\u0101tu migr\u0101cija uz jauno centr\u0113to sist\u0113mu",
-    "Watermark kast\u012b\u0161u izm\u0113rs saglab\u0101ts \u0113rts un elegants ar pagarin\u0101tu polster\u0113jumu (samazin\u0101ts tikai teksts)",
-    "Pievienoti un savienoti Watermark iestat\u012bjumi ikonu m\u0113rogam (Icon Scale) un vertik\u0101lajai poz\u012bcijai (Icon Y Offset)"
+    "Pievienots pludens un inercials scrolling modulu iestatijumu panelim (identiski ka Main GUI)",
+    "SoundCloud Dynamic Island audio vizualizacija tagad sinhronizejas ar realo skanas spektru un bitu caur Goertzel DFT analizi",
+    "Watermark pilnibaa att\u012br\u012bts no liekajiem iestat\u012bjumiem un ikonas Y pozicija fikseta uz 3.5; paslepta bultina moduliem bez iestatijumiem",
+    "SoundCloud un Configs pogas parveidotas uz mateta stikla (frosted glass) dizainu identiski ka Main GUI modulu pogas",
+    "No visiem HUD elementiem nonemti liekie ikonu un teksta iestatijumi, saglabajot tiru un fiksetu stilu",
+    "SoundCloud GUI panelis pilniba modernizets uz LiquidGlass mateta stikla efektu ar blur un spidumu",
+    "Ieverojami paatrinata Main Menu fona shaderu ielade ar baitkoda diska kesosanu un prieksieladi",
+    "Noversti fatalie avariju iemesli: TextPacket memcpy uz neinicializetas atminas un SocialGui aizsardziba"
   ]
 }
