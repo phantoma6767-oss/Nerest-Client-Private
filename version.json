@@ -1,15 +1,19 @@
 {
-  "version": "1.4.8",
+  "version": "1.4.9",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "e47a02e058b5dc8dc12c9c38a0e51589cdec5064f43e4876ab6d59f3a8beb7e3",
-  "size": 27191296,
+  "sha256": "7ecb6b94b4714572db8d83d09bcd9c8c17a40a43699b00fb9ea344039c3b56ca",
+  "size": 27177472,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.4.8",
+  "changelog_title": "Nerest 1.4.9",
   "changelog": [
-    "Fixed fatal crash in KillMessage & TextPacket (Actor getRawName / 0x3f800000)",
-    "Fixed fatal crash in SocialGui::render (ClientInstance playUi / 0x178)",
-    "Fixed ClickGUI & HUD background blur cutoff at 50% width and 2x zoom",
-    "Restored frosted glass background blur across all HUD elements"
+    "Pilns Watermark dizains p\u0101rstr\u0101d\u0101ts uz 3 atsevi\u0161\u0137iem stikla blokiem (Laiks, Nerest 1.4, Ping) bez ikon\u0101m, centr\u0113ts aug\u0161\u0101",
+    "SoundCloud Dynamic Island pievienots HUD Editoram un p\u0113c noklus\u0113juma novietots zem Watermark",
+    "SoundCloud ekvalaizera l\u012bniju sinhroniz\u0101cija ar m\u016bzikas ritmu (128 BPM beat sync)",
+    "HUD Editor re\u017e\u012bm\u0101 tagad redzami visu HUD elementu paraugi pareizai novieto\u0161anai",
+    "Galven\u0101s izv\u0113lnes (Main Menu), Config un SoundCloud pogas piel\u0101gotas Social GUI modu\u013cu stilam",
+    "Main GUI kategoriju josla sa\u0161aurin\u0101ta, modu\u013cu nosaukumi vairs netiek apgriezti ar punktiem",
+    "Inject Overlay fons p\u0101rstr\u0101d\u0101ts no melna uz maksim\u0101lu Direct2D blur efektu",
+    "Watermark un Notifications modu\u013ci iesl\u0113gti p\u0113c noklus\u0113juma"
   ]
 }
