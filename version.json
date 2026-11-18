@@ -1,19 +1,13 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "34e36afec2009f2b79698d9f9194f894f70c8b624ded8aae1b8cfcdd851ca4a6",
-  "size": 27139072,
+  "sha256": "6fe727c80f4a6e42209f6ddf8d91cfaf926890e573694569c3174b73a33c3db7",
+  "size": 27135488,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.5.2",
+  "changelog_title": "Nerest 1.5.3",
   "changelog": [
-    "Pievienots pludens un inercials scrolling modulu iestatijumu panelim (identiski ka Main GUI)",
-    "SoundCloud Dynamic Island audio vizualizacija tagad sinhronizejas ar realo skanas spektru un bitu caur Goertzel DFT analizi",
-    "Watermark pilnibaa att\u012br\u012bts no liekajiem iestat\u012bjumiem un ikonas Y pozicija fikseta uz 3.5; paslepta bultina moduliem bez iestatijumiem",
-    "SoundCloud un Configs pogas parveidotas uz mateta stikla (frosted glass) dizainu identiski ka Main GUI modulu pogas",
-    "No visiem HUD elementiem nonemti liekie ikonu un teksta iestatijumi, saglabajot tiru un fiksetu stilu",
-    "SoundCloud GUI panelis pilniba modernizets uz LiquidGlass mateta stikla efektu ar blur un spidumu",
-    "Ieverojami paatrinata Main Menu fona shaderu ielade ar baitkoda diska kesosanu un prieksieladi",
-    "Noversti fatalie avariju iemesli: TextPacket memcpy uz neinicializetas atminas un SocialGui aizsardziba"
+    "Atjaunots originalais Main Menu shaderu ielades kods (nov\u0113rsta k\u013c\u016bda ar shader unavailable uz GPU ar Feature Level 10.1)",
+    "P\u0101rveidota modu\u013cu iestat\u012bjumu aizv\u0113r\u0161anas poga - aizst\u0101ts izstieptais krusti\u0146\u0161 ar modernu, apa\u013cu stikla pogu un simetrisku krusti\u0146u ar hover efektu"
   ]
 }
