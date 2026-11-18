@@ -1,19 +1,18 @@
 {
-  "version": "1.4.9",
+  "version": "1.5.0",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "7ecb6b94b4714572db8d83d09bcd9c8c17a40a43699b00fb9ea344039c3b56ca",
-  "size": 27177472,
+  "sha256": "6093470c459d43878dc196de2f87505ff2944e684315f7381ac56ddcc15bff67",
+  "size": 27152896,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.4.9",
+  "changelog_title": "Nerest 1.5.0",
   "changelog": [
-    "Pilns Watermark dizains p\u0101rstr\u0101d\u0101ts uz 3 atsevi\u0161\u0137iem stikla blokiem (Laiks, Nerest 1.4, Ping) bez ikon\u0101m, centr\u0113ts aug\u0161\u0101",
-    "SoundCloud Dynamic Island pievienots HUD Editoram un p\u0113c noklus\u0113juma novietots zem Watermark",
-    "SoundCloud ekvalaizera l\u012bniju sinhroniz\u0101cija ar m\u016bzikas ritmu (128 BPM beat sync)",
-    "HUD Editor re\u017e\u012bm\u0101 tagad redzami visu HUD elementu paraugi pareizai novieto\u0161anai",
-    "Galven\u0101s izv\u0113lnes (Main Menu), Config un SoundCloud pogas piel\u0101gotas Social GUI modu\u013cu stilam",
-    "Main GUI kategoriju josla sa\u0161aurin\u0101ta, modu\u013cu nosaukumi vairs netiek apgriezti ar punktiem",
-    "Inject Overlay fons p\u0101rstr\u0101d\u0101ts no melna uz maksim\u0101lu Direct2D blur efektu",
-    "Watermark un Notifications modu\u013ci iesl\u0113gti p\u0113c noklus\u0113juma"
+    "Centr\u0113ta noklus\u0113juma poz\u012bcija Watermark un SoundCloud Dynamic Island (tie\u0161i zem watermark)",
+    "\u016adensz\u012bm\u0113 pievienotas ikonas caur icons3.ttf (Laiks: 'V', Ping: 'Q') un samazin\u0101ts teksta izm\u0113rs",
+    "No\u0146emta balt\u0101 l\u0101zera l\u012bnija no Hype emote",
+    "Main GUI klik\u0161\u0137is uz modu\u013ca kart\u012btes vai sl\u0113d\u017ea uzreiz iesl\u0113dz/izsl\u0113dz moduli",
+    "P\u0101rveidoti modu\u013cu iestat\u012bjumi uz atsevi\u0161\u0137u stikla paneli labaj\u0101 pus\u0113 ar vienm\u0113r\u012bgu izb\u012bd\u012b\u0161an\u0101s anim\u0101ciju",
+    "No\u0146emta vec\u0101 iestat\u012bjumu papla\u0161in\u0101\u0161an\u0101s kart\u012b\u0161u iek\u0161pus\u0113, nov\u0113r\u0161ot kolonnu kust\u0113\u0161anos",
+    "Nerest stila pazi\u0146ojumi (Notifications) palielin\u0101ti kop\u0101 ar tekstu un novietoti apak\u0161\u0113j\u0101 labaj\u0101 st\u016br\u012b"
   ]
 }
