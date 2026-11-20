@@ -1,13 +1,13 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "6fe727c80f4a6e42209f6ddf8d91cfaf926890e573694569c3174b73a33c3db7",
-  "size": 27135488,
+  "sha256": "a9e3d6fff30f61d2e50e015e1d9031f6d65aa7985ac0d98909b52f30c160b3fd",
+  "size": 27136000,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.5.3",
+  "changelog_title": "Nerest 1.5.4",
   "changelog": [
-    "Atjaunots originalais Main Menu shaderu ielades kods (nov\u0113rsta k\u013c\u016bda ar shader unavailable uz GPU ar Feature Level 10.1)",
-    "P\u0101rveidota modu\u013cu iestat\u012bjumu aizv\u0113r\u0161anas poga - aizst\u0101ts izstieptais krusti\u0146\u0161 ar modernu, apa\u013cu stikla pogu un simetrisku krusti\u0146u ar hover efektu"
+    "Noversts anti-cheat kiks The Hive serveri pat ar izslegtiem moduliem (nonemta globala mInteractRots piespiedu parrakstisana PlayerAuthInputPacket un sakartots ConnectionRequest pieslegsanas handshakes)",
+    "Sinhronizeta pazinojumu (Notifications) Direct2D blur animacija - blur fons tagad vienmerigi izgaist kopa ar tekstu, borderi un slidoso animaciju, nevis peksni pazud"
   ]
 }
