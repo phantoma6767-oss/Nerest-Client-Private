@@ -1,13 +1,13 @@
-{
-  "version": "1.5.5",
-  "name": "Nerest Client",
-  "client_name": "Nerest.dll",
-  "sha256": "a965471785f2b54dff61a1208fbdf35c6364f9162029619d88eee8bfd94e68b6",
-  "size": 27124224,
-  "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.5.5",
-  "changelog": [
-    "Noversts The Hive anti-cheat kiks: pilniba nonemts kludainais NetworkStackLatencyPacket tikla zondes pieprasijums Watermark moduli, kuru otra kodera commita (e2eba38) sutija serverim ik pec 2s pat ar izslegtiem haku moduliem",
-    "Atjaunots originalais MouseHook peles notikumu apstrades kods"
-  ]
+﻿{
+    "version":  "1.5.6",
+    "name":  "Nerest Client",
+    "client_name":  "Nerest.dll",
+    "sha256":  "4004d31564189359fa09c8c08bf69cd0d6782c902c536d9bd3c5a42cb6c7e681",
+    "size":  27124224,
+    "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
+    "changelog_title":  "Nerest 1.5.5",
+    "changelog":  [
+                      "Noversts The Hive anti-cheat kiks: pilniba nonemts kludainais NetworkStackLatencyPacket tikla zondes pieprasijums Watermark moduli, kuru otra kodera commita (e2eba38) sutija serverim ik pec 2s pat ar izslegtiem haku moduliem",
+                      "Atjaunots originalais MouseHook peles notikumu apstrades kods"
+                  ]
 }
