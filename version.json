@@ -1,13 +1,13 @@
 {
-  "version": "1.5.4",
+  "version": "1.5.5",
   "name": "Nerest Client",
   "client_name": "Nerest.dll",
-  "sha256": "a9e3d6fff30f61d2e50e015e1d9031f6d65aa7985ac0d98909b52f30c160b3fd",
-  "size": 27136000,
+  "sha256": "a965471785f2b54dff61a1208fbdf35c6364f9162029619d88eee8bfd94e68b6",
+  "size": 27124224,
   "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-  "changelog_title": "Nerest 1.5.4",
+  "changelog_title": "Nerest 1.5.5",
   "changelog": [
-    "Noversts anti-cheat kiks The Hive serveri pat ar izslegtiem moduliem (nonemta globala mInteractRots piespiedu parrakstisana PlayerAuthInputPacket un sakartots ConnectionRequest pieslegsanas handshakes)",
-    "Sinhronizeta pazinojumu (Notifications) Direct2D blur animacija - blur fons tagad vienmerigi izgaist kopa ar tekstu, borderi un slidoso animaciju, nevis peksni pazud"
+    "Noversts The Hive anti-cheat kiks: pilniba nonemts kludainais NetworkStackLatencyPacket tikla zondes pieprasijums Watermark moduli, kuru otra kodera commita (e2eba38) sutija serverim ik pec 2s pat ar izslegtiem haku moduliem",
+    "Atjaunots originalais MouseHook peles notikumu apstrades kods"
   ]
 }
