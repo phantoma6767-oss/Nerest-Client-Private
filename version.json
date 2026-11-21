@@ -1,17 +1,16 @@
-﻿{
-    "version":  "1.6.0",
-    "name":  "Nerest Client",
-    "client_name":  "Nerest.dll",
-    "sha256":  "6ac69864a742c936dbb6cb5afdcb8519e7cacaa34a3e25ca137716dcabe2510c",
-    "size":  27381248,
+{
+    "size":  27387392,
+    "version":  "1.6.1",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-    "changelog_title":  "Nerest 1.6.0",
+    "client_name":  "Nerest.dll",
+    "name":  "Nerest Client",
+    "changelog_title":  "Nerest 1.6.1",
     "changelog":  [
-                      "HUD stils uz Liquid Glass: Scaffold HUD un visiem racēju/miner HUD (Regen, OreMiner, Baritone) pievienots moderns stikla dizains ar fona izpludinājumu (blur), ēnu un specular stikla apmali.",
-                      "Chams jaunais 'NightShader' režīms: kontūra un glow saskaņots ar interfeisa tēmas krāsām, bet iekšpuses pildījums (fill) tiek renderēts ar nakts debesu šādera zvaigžņoto tekstūru identiski kā BlockOverlay Night šāderis.",
-                      "TargetHUD un Nametags galvenās rokas (main hand) slots: pretinieka nestais priekšmets (zobens, loks, vairogs u.c.) tagad tiek attēlots atsevišķā slotā ar ikonu un izturības joslu.",
-                      "Nametags stikla stils: vārda plāksnīte un inventāra slots pārveidoti uz Liquid Glass dizainu ar dinamisku fona izpludinājumu.",
-                      "WorldParticles: pilnībā noņemtas sniegpārslas (Snowflake) un sirsniņas (Hearts) no visiem režīmiem un Mixed nejaušā ģeneratora.",
-                      "ClickGUI modulu iestatījumu aizvēršanas labojums: novērsts vizuālais bugs, kad aizverot moduļa detaļu paneli, izpludinājums (blur) palika ilgāk par tekstu un kartiņu – tagad izpludinājuma stiprums un caurspīdīgums vienmērīgi izgaist sinhroni ar logu."
-                  ]
+                      "Avārijas (Crash) labojums ImGui_ImplDX11_RenderDrawData / D3DKMTOpenResource: novērsts random crash staigājot pa pasauli ar null/invalid tekstūru aizsardzību un SEH draiveru izsaukumu sargāšanu.",
+                      "Droša priekšmetu nolasīšana (Actor::getCarriedItem): novērsta kļūda attālinātu spēlētāju inventāra nolasīšanā – vairs netiek izsaukts lokālais PlayerInventory uz citiem spēlētājiem, pasargājot no atmiņas kļūdām un krašiem.",
+                      "Chams NightShader bez līnijām: noņemtas kontūras un glow līnijas NightShader režīmā, atstājot tīru nakts šādera aizpildījumu (fill).",
+                      "Priekšmetu tekstūras no klienta resursiem: TargetHUD un Nametags rokas priekšmetu ikonas tiek ņemtas pa tiešo no iebūvētajiem resursiem (ResourceLoader / items), novēršot tukšas vai nepareizas tekstūras.",
+                      "Surround draugu ignorēšana: Surround modulim pievienots iestatījums \u0027Ignore Friends\u0027, kas neļauj apbūvēt draugus ar blokiem."
+                  ],
+    "sha256":  "7e348a8a7a44dba2f46a0fbb1a42586ee8d3444de9898f9e00a3bd27f1b69316"
 }
