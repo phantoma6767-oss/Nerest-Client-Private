@@ -1,13 +1,17 @@
 ﻿{
-    "version":  "1.5.9",
+    "version":  "1.6.0",
     "name":  "Nerest Client",
     "client_name":  "Nerest.dll",
-    "sha256":  "22ba185bb8f72f6edb902c9531ca8db39dd187ec8ef9279ccd70fb938d723f0d",
-    "size":  27374592,
+    "sha256":  "6ac69864a742c936dbb6cb5afdcb8519e7cacaa34a3e25ca137716dcabe2510c",
+    "size":  27381248,
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-    "changelog_title":  "Nerest 1.5.9",
+    "changelog_title":  "Nerest 1.6.0",
     "changelog":  [
-                      "ShaderHands outline pilniga sinhronizacija ar jebkuru resource pack un custom items: noversts plakana taisnstura / kastes bugs. Rokas prieksmetu kontura tagad tiek panemta tiesi no speles 3D geometrijas (voxel triangles), kas automatiski 1:1 atbilst aktivajai teksturu pakai un jebkuriem servera custom items.",
-                      "TargetESP Swords rezima uzlabojumi: zobenu asmens gals pagriezts uz leju (0 deg), palielinats noklusetais zobenu izmers un nozemets burvju aplis zem target kajam."
+                      "HUD stils uz Liquid Glass: Scaffold HUD un visiem racēju/miner HUD (Regen, OreMiner, Baritone) pievienots moderns stikla dizains ar fona izpludinājumu (blur), ēnu un specular stikla apmali.",
+                      "Chams jaunais 'NightShader' režīms: kontūra un glow saskaņots ar interfeisa tēmas krāsām, bet iekšpuses pildījums (fill) tiek renderēts ar nakts debesu šādera zvaigžņoto tekstūru identiski kā BlockOverlay Night šāderis.",
+                      "TargetHUD un Nametags galvenās rokas (main hand) slots: pretinieka nestais priekšmets (zobens, loks, vairogs u.c.) tagad tiek attēlots atsevišķā slotā ar ikonu un izturības joslu.",
+                      "Nametags stikla stils: vārda plāksnīte un inventāra slots pārveidoti uz Liquid Glass dizainu ar dinamisku fona izpludinājumu.",
+                      "WorldParticles: pilnībā noņemtas sniegpārslas (Snowflake) un sirsniņas (Hearts) no visiem režīmiem un Mixed nejaušā ģeneratora.",
+                      "ClickGUI modulu iestatījumu aizvēršanas labojums: novērsts vizuālais bugs, kad aizverot moduļa detaļu paneli, izpludinājums (blur) palika ilgāk par tekstu un kartiņu – tagad izpludinājuma stiprums un caurspīdīgums vienmērīgi izgaist sinhroni ar logu."
                   ]
 }
