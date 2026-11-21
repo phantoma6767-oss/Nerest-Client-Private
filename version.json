@@ -1,16 +1,14 @@
 {
-    "size":  27387392,
-    "version":  "1.6.1",
+    "size":  27386368,
+    "version":  "1.6.2",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.6.1",
+    "changelog_title":  "Nerest 1.6.2",
     "changelog":  [
-                      "Avārijas (Crash) labojums ImGui_ImplDX11_RenderDrawData / D3DKMTOpenResource: novērsts random crash staigājot pa pasauli ar null/invalid tekstūru aizsardzību un SEH draiveru izsaukumu sargāšanu.",
-                      "Droša priekšmetu nolasīšana (Actor::getCarriedItem): novērsta kļūda attālinātu spēlētāju inventāra nolasīšanā – vairs netiek izsaukts lokālais PlayerInventory uz citiem spēlētājiem, pasargājot no atmiņas kļūdām un krašiem.",
-                      "Chams NightShader bez līnijām: noņemtas kontūras un glow līnijas NightShader režīmā, atstājot tīru nakts šādera aizpildījumu (fill).",
-                      "Priekšmetu tekstūras no klienta resursiem: TargetHUD un Nametags rokas priekšmetu ikonas tiek ņemtas pa tiešo no iebūvētajiem resursiem (ResourceLoader / items), novēršot tukšas vai nepareizas tekstūras.",
-                      "Surround draugu ignorēšana: Surround modulim pievienots iestatījums \u0027Ignore Friends\u0027, kas neļauj apbūvēt draugus ar blokiem."
+                      "Shifting kāju leņķa labojums (SkeletonESP, Chams, KillEffects): novērsta kļūda, kur, spēlētājam pietupjoties (sneaking/shifting), kājas gāja pretējā virzienā un liecās gaisā – tagad kājas paliek stabili un dabiski uz zemes atbilstoši Minecraft spēlētāja modelim.",
+                      "D3DKMTOpenResource fatālā kraša un laga novēršana: nodrošināta pilna SEH aizsardzība DirectX 11 / D3D11on12 resursu piesaistē un stāvokļu atjaunošanā ImGui zīmēšanas ciklā ar automātisku fontu tekstūras fallback.",
+                      "BlockOverlay un Chams šāderu optimizācija: pilnībā novērsts -50 FPS kritums un ielagošana – šāderu renderēšana ierobežota un kešota, optimizēta kvalitāte un Chams NightShader darbojas ar maksimālu ātrdarbību."
                   ],
-    "sha256":  "7e348a8a7a44dba2f46a0fbb1a42586ee8d3444de9898f9e00a3bd27f1b69316"
+    "sha256":  "3a612f1ce4d355b074d765cf43528cc51d5e9e67c81d46354b4a0066dae058b6"
 }
