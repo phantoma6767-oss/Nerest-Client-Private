@@ -1,14 +1,13 @@
 ﻿{
-    "version":  "1.5.7",
+    "version":  "1.5.8",
     "name":  "Nerest Client",
     "client_name":  "Nerest.dll",
-    "sha256":  "9837365e4f5a8f2a83b051d1cd519c69339635202e40694a17ebf7edb5ab0eeb",
+    "sha256":  "efb10000037ea77735703f89b63b17bf01f877a1f9a0e7b673f9631210497156",
     "size":  27373056,
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-    "changelog_title":  "Nerest 1.5.7",
+    "changelog_title":  "Nerest 1.5.8",
     "changelog":  [
-                      "Atjauninati BlockOverlay un ShaderHands ar CustomSky un liesmu shaderiem no otra kodera",
-                      "Pievienots jauns vizualais modulis Arrows (directional arrows ar arrow.png un temas krasam)",
-                      "Pievienots jauns TargetESP rezims Swords (4 zobeji ap merki ar sword_esp.png, orbitacijas rotaciju, temas krasam un shader glow)"
+                      "BlockOverlay optimizacija: pilniba noversts FPS kritums (-50 FPS). Teksturas izskirtspeja samazinata no parmerigas 2048x2048 uz optimalu 512x512/256x256 (16x-64x mazak pikselu), 30 FPS shaderu throttlings un nonemts GPU pipeline stall readbacks",
+                      "ShaderHands optimizacija: noversts item switch freezes. Resource pack skenesana parnesta uz asinhronu background thread (vairs nebloke render thread), nonemts premium_cache scans un ieviesta per-frame teksturas kesosana held item renderesana"
                   ]
 }
