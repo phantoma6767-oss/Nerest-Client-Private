@@ -1,16 +1,12 @@
 {
-    "size": 27438080,
-    "version": "1.6.3",
+    "size": 27516928,
+    "version": "1.6.4",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.6.3",
+    "changelog_title": "Nerest 1.6.4",
     "changelog": [
-        "Krievu valodas fontu atbalsts: Interface moduli un Interface GUI atstati tikai tie fonti, kuri pilniba atbalsta kirilicu un krievu valodu (Manrope Bold, Comfortaa, Arial, Inter, Rubik).",
-        "Scaffold HUD tulkojums: HUD blokos Amount aizstats ar korektu kirilicas tekstu 'Количество: ' ar UTF-8 multi-byte renderesanas drosibu.",
-        "Modulu apraksti krieviski virs GUI: novietojot peli uz jebkura modula ClickGUI kartites, virs loga paradas stiliga mateta stikla kapsula ar modula nosaukumu un tulkotu aprakstu krievu valoda.",
-        "Pilnigs D3D11 krasu labojums: drosa izpilde caur safeRenderDrawData un SEH filtru D3DHook::present, noversot D3DKMTOpenResource un atminas piekluves kludas.",
-        "Shifting kaju novietojuma gala labojums (Chams, SkeletonESP, KillEffects): nonemts preteja virziena nobiides vektors, kajas shifting laika stav dabiski taisni un precizi zem speletaja kermena."
+        "New modules, New features!"
     ],
-    "sha256": "d2c3f6c5ec03dc788e993cb760d421b24f0569b8b1ab99c02e4a62ca298215ab"
+    "sha256": "72d0eb2f36abaa319ede20e208e16d7207ce29f4943fb16f6767b0a3d086ce05"
 }
