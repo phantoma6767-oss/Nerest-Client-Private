@@ -1,15 +1,17 @@
 ﻿{
-    "size": 27596288,
-    "version": "1.6.5",
+    "size": 27594752,
+    "version": "1.6.6",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.6.5",
+    "changelog_title": "Nerest 1.6.6",
     "changelog": [
-        "Added Cat companion in Social GUI",
+        "Fixed player entity visibility across all servers and entity archetypes",
+        "Launcher Mojang intro overlay countdown transition reduced to 5s",
+        "Cat companion enlarged by 50% and perfectly positioned on GUI edge",
+        "Added Auto Crit in Aura module (Baritone jump mechanics)",
         "Added Snow particles in Social GUI background",
-        "Added Auto Crit in Aura module (Baritone jump)",
         "Fixed Pets companion rendering with embedded textures"
     ],
-    "sha256": "27971cc8cd69e3c3ce821c22ec3fb40d81754995fa9e5dc6bf5ea3d61f66fc95"
+    "sha256": "C9531BFA3173C975F9D0EB368B9CE79C45CF7CB1BEA58E8181CB5943F7053FD5"
 }
