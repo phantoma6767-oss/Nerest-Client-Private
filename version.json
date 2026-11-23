@@ -1,12 +1,15 @@
-{
-    "size": 27516928,
-    "version": "1.6.4",
+﻿{
+    "size": 27596288,
+    "version": "1.6.5",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.6.4",
+    "changelog_title": "Nerest 1.6.5",
     "changelog": [
-        "New modules, New features!"
+        "Added Cat companion in Social GUI",
+        "Added Snow particles in Social GUI background",
+        "Added Auto Crit in Aura module (Baritone jump)",
+        "Fixed Pets companion rendering with embedded textures"
     ],
-    "sha256": "72d0eb2f36abaa319ede20e208e16d7207ce29f4943fb16f6767b0a3d086ce05"
+    "sha256": "27971cc8cd69e3c3ce821c22ec3fb40d81754995fa9e5dc6bf5ea3d61f66fc95"
 }
