@@ -1,17 +1,18 @@
 ﻿{
-    "size": 27594752,
-    "version": "1.6.6",
+    "size": 27571712,
+    "version": "1.6.7",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.6.6",
+    "changelog_title": "Nerest 1.6.7",
     "changelog": [
+        "Brand new CustomSky module replacing old sky with 1:1 Desktop source (D3D11 & D3D12 support)",
+        "Aurora, Nebula, and Galaxy styles with full animations, meteors, and stars",
         "Fixed player entity visibility across all servers and entity archetypes",
         "Launcher Mojang intro overlay countdown transition reduced to 5s",
         "Cat companion enlarged by 50% and perfectly positioned on GUI edge",
         "Added Auto Crit in Aura module (Baritone jump mechanics)",
-        "Added Snow particles in Social GUI background",
-        "Fixed Pets companion rendering with embedded textures"
+        "Added Snow particles in Social GUI background"
     ],
-    "sha256": "C9531BFA3173C975F9D0EB368B9CE79C45CF7CB1BEA58E8181CB5943F7053FD5"
+    "sha256": "CCF644189C14190AF2D16A47DA823CCD557C6E73CEEE7846633510A3F264591B"
 }
