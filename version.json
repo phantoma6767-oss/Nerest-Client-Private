@@ -1,11 +1,13 @@
 {
-    "size":  27586048,
-    "version":  "1.7.1",
+    "size":  27587072,
+    "version":  "1.7.2",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.7.1",
+    "changelog_title":  "Nerest 1.7.2",
     "changelog":  [
+                      "Added a safety pause for CustomSky on D3D Feature Level 10.x after repeated NVIDIA driver crashes. A chat message explains when it activates.",
+                      "Fixed generated build-stamp dependencies so crash reports identify the actual build.",
                       "Stabilized CustomSky shader creation on Feature Level 10.0 and 10.1 by using the Shader Model 4.0 path after the NVIDIA driver crash report.",
                       "Fixed CustomSky to replace the sky in the world render pass instead of drawing an overlay over the finished frame.",
                       "Fixed CustomSky initialization: added full support for D3D Feature Level 10_0 and 10_1 with automatic shader target fallback (vs_4_0/ps_4_0)",
@@ -19,5 +21,5 @@
                       "Added Auto Crit in Aura module (Baritone jump mechanics)",
                       "Added Snow particles in Social GUI background"
                   ],
-    "sha256":  "419A11C10AF0DF01A15B7384C4D707035E312CEB20E50ED69CE3A5D302D7778D"
+    "sha256":  "AE463D2D247BDC5E8476A95C46E8BE8F6F9FC6C0143DD7E9368028943DE78DF6"
 }
