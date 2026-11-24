@@ -1,14 +1,15 @@
 ﻿{
-    "size": 27587072,
-    "version": "1.6.8",
+    "size": 27587584,
+    "version": "1.6.9",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.6.8",
+    "changelog_title": "Nerest 1.6.9",
     "changelog": [
+        "Fixed CustomSky initialization: added full support for D3D Feature Level 10_0 and 10_1 with automatic shader target fallback (vs_4_0/ps_4_0)",
+        "Added Direct3D Feature Level display in real-time chat diagnostics",
         "Fixed CustomSky camera projection, FOV radian conversion, and full 360-degree sky dome coverage",
         "Fixed CustomSky color palette loading on style change (Aurora, Nebula, Galaxy) and blend states",
-        "Added full advanced real-time chat diagnostics for CustomSky (pitch/yaw, forward vector, FOV, target RTV, draw status)",
         "Added Custom Colors and Full Opaque settings to CustomSky module",
         "Fixed player entity visibility across all servers and entity archetypes",
         "Launcher Mojang intro overlay countdown transition reduced to 5s",
@@ -16,5 +17,5 @@
         "Added Auto Crit in Aura module (Baritone jump mechanics)",
         "Added Snow particles in Social GUI background"
     ],
-    "sha256": "1733EC68748C0AA75DA8F3CC6F9D52AEB93E3F5BEDAB2FED327A898A5867BAAE"
+    "sha256": "D54C6CC6B4C8943AFBCBF35167250EBF84F88678CA14209BE3D460EF20663574"
 }
