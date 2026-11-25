@@ -1,13 +1,14 @@
 {
-    "size":  27721216,
-    "version":  "1.8.5-test",
+    "size":  27713536,
+    "version":  "1.8.6-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.5 test build",
+    "changelog_title":  "Nerest 1.8.6 test build",
     "changelog":  [
-                      "Test: temporarily disable the local player model camera flag during world rendering while Custom Model is ready.",
-                      "Expanded CustomModel.log diagnostics. In-game behavior is not yet verified."
+                      "Added Crescent and Snap swing animations.",
+                      "Updated the Spoofer glass interface and added Android Profile and Chat Debug to Edition Faker.",
+                      "Test: suppress the local third-person model render group. In-game behavior is not yet verified."
                   ],
-    "sha256":  "B8A0DC59CB32631950DD10580852544B9778B31BE8A9068468DA2647E0D99F13"
+    "sha256":  "913C6C351FA88A1BB1084921221F3A1FCDC9B73E96A191025AA050FC21793848"
 }
