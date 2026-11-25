@@ -1,14 +1,13 @@
 {
-    "size":  27713536,
-    "version":  "1.8.6-test",
+    "size":  27676672,
+    "version":  "1.8.7-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.6 test build",
+    "changelog_title":  "Nerest 1.8.7 test build",
     "changelog":  [
-                      "Added Crescent and Snap swing animations.",
-                      "Updated the Spoofer glass interface and added Android Profile and Chat Debug to Edition Faker.",
-                      "Test: suppress the local third-person model render group. In-game behavior is not yet verified."
+                      "Unified profile settings in the ClickGUI Spoofer tab and removed the separate editor and Edition Faker module.",
+                      "Test: scope local player visibility changes to world rendering while the third-person replacement is ready. In-game behavior is not yet verified."
                   ],
-    "sha256":  "913C6C351FA88A1BB1084921221F3A1FCDC9B73E96A191025AA050FC21793848"
+    "sha256":  "4A70C6B8B907AEFD9D1DD1E3ACF33C0731644DB9702AF3F12ED3B0F94E183AFD"
 }
