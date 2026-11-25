@@ -1,25 +1,13 @@
 {
-    "size":  27587072,
-    "version":  "1.7.2",
+    "size":  27701248,
+    "version":  "1.8.0",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.7.2",
+    "changelog_title":  "Nerest 1.8.0",
     "changelog":  [
-                      "Added a safety pause for CustomSky on D3D Feature Level 10.x after repeated NVIDIA driver crashes. A chat message explains when it activates.",
-                      "Fixed generated build-stamp dependencies so crash reports identify the actual build.",
-                      "Stabilized CustomSky shader creation on Feature Level 10.0 and 10.1 by using the Shader Model 4.0 path after the NVIDIA driver crash report.",
-                      "Fixed CustomSky to replace the sky in the world render pass instead of drawing an overlay over the finished frame.",
-                      "Fixed CustomSky initialization: added full support for D3D Feature Level 10_0 and 10_1 with automatic shader target fallback (vs_4_0/ps_4_0)",
-                      "Added Direct3D Feature Level display in real-time chat diagnostics",
-                      "Fixed CustomSky camera projection, FOV radian conversion, and full 360-degree sky dome coverage",
-                      "Fixed CustomSky color palette loading on style change (Aurora, Nebula, Galaxy) and blend states",
-                      "Added Custom Colors and Full Opaque settings to CustomSky module",
-                      "Fixed player entity visibility across all servers and entity archetypes",
-                      "Launcher Mojang intro overlay countdown transition reduced to 5s",
-                      "Cat companion enlarged by 50% and perfectly positioned on GUI edge",
-                      "Added Auto Crit in Aura module (Baritone jump mechanics)",
-                      "Added Snow particles in Social GUI background"
+                      "Replaced Shader Hands with Hand Shaders, an animated Block Overlay-style effect for first-person hands and held items, including unenchanted items.",
+                      "Added Custom Model with 11 animated, client-only third-person models."
                   ],
-    "sha256":  "AE463D2D247BDC5E8476A95C46E8BE8F6F9FC6C0143DD7E9368028943DE78DF6"
+    "sha256":  "D84CEC68F90A96E2BA76D74FFE01CBB66EEB7FF0727E8DBAA24DCB870513EA6C"
 }
