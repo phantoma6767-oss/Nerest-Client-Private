@@ -1,14 +1,14 @@
 {
-    "size":  27720192,
-    "version":  "1.8.8-test",
+    "size":  27709952,
+    "version":  "1.8.9-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.8 test build",
+    "changelog_title":  "Nerest 1.8.9 test build",
     "changelog":  [
-                      "Polished Spoofer glass controls, toggle, smooth scrolling, and panel transitions.",
-                      "Custom Chat preserves the opening slash and sends slash commands as commands.",
-                      "Added the local player avatar and nickname to the main ClickGUI footer."
+                      "Reduced ClickGUI backdrop and avatar rendering work.",
+                      "Unified white-strip GUI transitions and switched Baritone to direct movement input.",
+                      "Watermark uses RakNet latency when available; Aurora is the default Main Menu background."
                   ],
-    "sha256":  "D28622F32D9E5A2E7E2DEDE2D377E62755E9BD83257680B076750CD136CC250C"
+    "sha256":  "D9F8FEE64B5CA4447D34EE22F40C504B180A5FA3E2487DAF5E8A5EA39F51E97D"
 }
