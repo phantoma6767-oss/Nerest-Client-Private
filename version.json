@@ -1,13 +1,14 @@
 {
-    "size":  27676672,
-    "version":  "1.8.7-test",
+    "size":  27720192,
+    "version":  "1.8.8-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.7 test build",
+    "changelog_title":  "Nerest 1.8.8 test build",
     "changelog":  [
-                      "Unified profile settings in the ClickGUI Spoofer tab and removed the separate editor and Edition Faker module.",
-                      "Test: scope local player visibility changes to world rendering while the third-person replacement is ready. In-game behavior is not yet verified."
+                      "Polished Spoofer glass controls, toggle, smooth scrolling, and panel transitions.",
+                      "Custom Chat preserves the opening slash and sends slash commands as commands.",
+                      "Added the local player avatar and nickname to the main ClickGUI footer."
                   ],
-    "sha256":  "4A70C6B8B907AEFD9D1DD1E3ACF33C0731644DB9702AF3F12ED3B0F94E183AFD"
+    "sha256":  "D28622F32D9E5A2E7E2DEDE2D377E62755E9BD83257680B076750CD136CC250C"
 }
