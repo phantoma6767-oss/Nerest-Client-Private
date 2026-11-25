@@ -1,14 +1,13 @@
 {
-    "size":  27709440,
-    "version":  "1.8.2",
+    "size":  27714048,
+    "version":  "1.8.3",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.2",
+    "changelog_title":  "Nerest 1.8.3",
     "changelog":  [
-                      "Corrected Rabbit face and ear mapping and revised other custom model face mappings.",
-                      "Improved local vanilla body detection and added fallback diagnostics.",
-                      "TargetESP now fades out when no live target remains."
+                      "Keep available Custom Model render hooks active when a companion hook is missing.",
+                      "If the original body cannot be hidden, record the render stage in CustomModel.log in Release builds."
                   ],
-    "sha256":  "C4EC00069A44E6453F80B3CCF249B42EE775F7081FD2EC21CFEF38DC7F468355"
+    "sha256":  "B571DF5F7F81DC9FDE8AF111340949917113A5962E016460328B2ACA9E32653B"
 }
