@@ -1,13 +1,14 @@
 {
-    "size":  27701248,
-    "version":  "1.8.0",
+    "size":  27708416,
+    "version":  "1.8.1",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.0",
+    "changelog_title":  "Nerest 1.8.1",
     "changelog":  [
-                      "Replaced Shader Hands with Hand Shaders, an animated Block Overlay-style effect for first-person hands and held items, including unenchanted items.",
-                      "Added Custom Model with 11 animated, client-only third-person models."
+                      "Restored all previous Interface themes and custom colors.",
+                      "Fixed TargetESP shader and blend state being overwritten before drawing and added a bloom format fallback.",
+                      "Custom Model now draws in third person even if the original body cannot be safely hidden."
                   ],
-    "sha256":  "D84CEC68F90A96E2BA76D74FFE01CBB66EEB7FF0727E8DBAA24DCB870513EA6C"
+    "sha256":  "5B7258BA1CF02334E75F511F088F6CF74C85AFB64A38684B5C2337802EBC7268"
 }
