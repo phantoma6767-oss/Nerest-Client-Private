@@ -1,14 +1,14 @@
 {
-    "size":  27696640,
-    "version":  "1.8.10-test",
+    "size":  27730432,
+    "version":  "1.8.11-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.10 test build",
+    "changelog_title":  "Nerest 1.8.11 test build",
     "changelog":  [
-                      "Watermark and LevelInfo share measured server latency when available.",
-                      "Animated nested ClickGUI settings on open and close, removed the cat, and moved module descriptions above the panel.",
-                      "Snow is limited to ClickGUI tabs, Emote GUI, and Custom Chat; Main Menu and HUD Editor are excluded."
+                      "Cleaned up server addresses in connection notifications without changing the login request.",
+                      "Updated shared RakNet latency sampling for Watermark and LevelInfo.",
+                      "Added Mace Helper and Auto Crystal to Combat."
                   ],
-    "sha256":  "BB7FDB3350B8959A187406110B83863BB64F8EC609467522536274ABAA1E7EBF"
+    "sha256":  "4546388D2D2C593A908F06CEB245A9F152BC5DFAAB2A40BDC7C402339DE42219"
 }
