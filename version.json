@@ -1,14 +1,14 @@
 {
-    "size":  27933696,
-    "version":  "1.8.20-test",
+    "size":  27770880,
+    "version":  "1.8.21-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.20 Velora D3D11 test",
+    "changelog_title":  "Nerest 1.8.21: Dropdown and ElytraTarget",
     "changelog":  [
-                      "First in-game test for Velora ShaderHands on native D3D11 in Bedrock 26.52.",
-                      "Enable Visual \u003e Hand Shaders and select Pattern \u003e Velora (D3D11).",
-                      "D3D12 is not required or supported for this effect in this test."
+                      "New animated Dropdown layout under ClickGUI \u003e Style.",
+                      "ElytraTarget locks view while gliding; Aura yields rotation while the lock is active.",
+                      "Updated native D3D11 hand effect settings."
                   ],
-    "sha256":  "EBBB8E861F93A6B2DF247B8A04C56E50BE906255B70A14EB3FFD218249983657"
+    "sha256":  "ABC6009AAC106748491D821E2EE96D51F576ABC20BA00D6D1B555538CFF6EDD7"
 }
