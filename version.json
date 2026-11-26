@@ -1,14 +1,13 @@
 {
-    "size":  27730944,
-    "version":  "1.8.12-test",
+    "size":  27736576,
+    "version":  "1.8.13-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.12 test build",
+    "changelog_title":  "Nerest 1.8.13 test build",
     "changelog":  [
-                      "Mace Helper begins aiming earlier and checks whether the aim ray reaches the target hitbox before attacking.",
-                      "Mace Helper restores the previous hotbar slot on the next tick without overriding a manual slot change.",
-                      "Auto Crystal no longer blocks placement just because another player is nearby. It checks for a new crystal and a matching inventory change before attacking."
+                      "Mace Helper uses fast Aura Normal-style 360-degree targeting and sends the attack transaction while the mace is selected.",
+                      "Auto Crystal uses an item-on-block transaction for placement and retains the spawn and inventory checks before attacking."
                   ],
-    "sha256":  "ED2CFC370972F6E0431F528B7530B33AF6BB39B1A4E74CA13048F57A23CB4503"
+    "sha256":  "7E0BAEF56C0852C16B28D5A664FDC9FA74AABB8B7456668E313E833D848FF493"
 }
