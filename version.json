@@ -1,14 +1,14 @@
 {
-    "size":  27919360,
-    "version":  "1.8.17-test",
+    "size":  27922944,
+    "version":  "1.8.18-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.17 Wings fixes",
+    "changelog_title":  "Nerest 1.8.18 Ice Crystal test",
     "changelog":  [
-                      "Fixed the blank Visual \u003e Wings label in ClickGUI.",
-                      "Angel and Dragon use cutout silhouettes instead of opaque atlas backing.",
-                      "The Velora ShaderHands integration is not included in this test."
+                      "Wings: Ice Crystal replaces Fairy. Angel and Dragon remain available.",
+                      "Shortened the Spoofer panel and compacted the footer.",
+                      "Velora ShaderHands is not enabled in this build."
                   ],
-    "sha256":  "ADA5D89EE355CC42AE82D75D5F7B4BB02BC56689AD1C7A8FCE81389102A8281D"
+    "sha256":  "08801A57232DE8DF591DDC0FD56D1E1AA5B14AC84D23C6373BDC055468D6134D"
 }
