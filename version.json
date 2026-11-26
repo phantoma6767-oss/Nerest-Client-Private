@@ -1,14 +1,14 @@
 {
-    "size":  27770880,
-    "version":  "1.8.21-test",
+    "size":  27753472,
+    "version":  "1.8.22-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.21: Dropdown and ElytraTarget",
+    "changelog_title":  "Nerest 1.8.22: Mace Helper and AutoFirework",
     "changelog":  [
-                      "New animated Dropdown layout under ClickGUI \u003e Style.",
-                      "ElytraTarget locks view while gliding; Aura yields rotation while the lock is active.",
-                      "Updated native D3D11 hand effect settings."
+                      "Restored Combat \u003e Mace Helper.",
+                      "Removed the Dropdown ClickGUI style.",
+                      "AutoFirework recognizes legacy and namespaced rocket IDs and moves inventory rockets into the hotbar before use."
                   ],
-    "sha256":  "ABC6009AAC106748491D821E2EE96D51F576ABC20BA00D6D1B555538CFF6EDD7"
+    "sha256":  "BBE48581321A69E2778393761133EB69FAF7E9D78F704A56EDA354C1A1A070F3"
 }
