@@ -1,13 +1,14 @@
 {
-    "size":  27916288,
-    "version":  "1.8.16-test",
+    "size":  27919360,
+    "version":  "1.8.17-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.16 Wings test",
+    "changelog_title":  "Nerest 1.8.17 Wings fixes",
     "changelog":  [
-                      "Added Visual \u003e Wings: Angel, Dragon and Fairy cosmetics for third-person testing with and without Custom Model.",
-                      "Hand Shaders is unchanged. The Velora ShaderHands integration is not part of this test."
+                      "Fixed the blank Visual \u003e Wings label in ClickGUI.",
+                      "Angel and Dragon use cutout silhouettes instead of opaque atlas backing.",
+                      "The Velora ShaderHands integration is not included in this test."
                   ],
-    "sha256":  "39C6DBB191FC0509F311899F70E99AD5D99035A4B7FD3AEEAA3913CDA6E95B04"
+    "sha256":  "ADA5D89EE355CC42AE82D75D5F7B4BB02BC56689AD1C7A8FCE81389102A8281D"
 }
