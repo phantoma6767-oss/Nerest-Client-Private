@@ -1,14 +1,13 @@
 {
     "size":  27922944,
-    "version":  "1.8.18-test",
+    "version":  "1.8.19-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.18 Ice Crystal test",
+    "changelog_title":  "Nerest 1.8.19 Spoofer layout test",
     "changelog":  [
-                      "Wings: Ice Crystal replaces Fairy. Angel and Dragon remain available.",
-                      "Shortened the Spoofer panel and compacted the footer.",
+                      "Raised the Spoofer panel by up to 32 pixels in ClickGUI.",
                       "Velora ShaderHands is not enabled in this build."
                   ],
-    "sha256":  "08801A57232DE8DF591DDC0FD56D1E1AA5B14AC84D23C6373BDC055468D6134D"
+    "sha256":  "C68BC4870EA0E070C4E831442CB1334F3C6F58C1DF1CA2E4D294386A55D48DB4"
 }
