@@ -1,13 +1,14 @@
 {
-    "size":  27922944,
-    "version":  "1.8.19-test",
+    "size":  27933696,
+    "version":  "1.8.20-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.19 Spoofer layout test",
+    "changelog_title":  "Nerest 1.8.20 Velora D3D11 test",
     "changelog":  [
-                      "Raised the Spoofer panel by up to 32 pixels in ClickGUI.",
-                      "Velora ShaderHands is not enabled in this build."
+                      "First in-game test for Velora ShaderHands on native D3D11 in Bedrock 26.52.",
+                      "Enable Visual \u003e Hand Shaders and select Pattern \u003e Velora (D3D11).",
+                      "D3D12 is not required or supported for this effect in this test."
                   ],
-    "sha256":  "C68BC4870EA0E070C4E831442CB1334F3C6F58C1DF1CA2E4D294386A55D48DB4"
+    "sha256":  "EBBB8E861F93A6B2DF247B8A04C56E50BE906255B70A14EB3FFD218249983657"
 }
