@@ -1,13 +1,13 @@
 {
-    "size":  27748352,
-    "version":  "1.8.15-test",
+    "size":  27916288,
+    "version":  "1.8.16-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.15 test build",
+    "changelog_title":  "Nerest 1.8.16 Wings test",
     "changelog":  [
-                      "Auto Crystal: corrected the Bedrock 26.52 placement transaction signature and layout; in-game verification pending.",
-                      "Auto Crystal: rejects previously observed crystal IDs and unstable placement candidates. Mace Helper is unchanged."
+                      "Added Visual \u003e Wings: Angel, Dragon and Fairy cosmetics for third-person testing with and without Custom Model.",
+                      "Hand Shaders is unchanged. The Velora ShaderHands integration is not part of this test."
                   ],
-    "sha256":  "42425603E4AF6E676EC35CD7FAB471C6E4CF349B7194FD20511167EA1F7DED30"
+    "sha256":  "39C6DBB191FC0509F311899F70E99AD5D99035A4B7FD3AEEAA3913CDA6E95B04"
 }
