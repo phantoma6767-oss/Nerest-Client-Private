@@ -1,14 +1,14 @@
 {
-    "size":  27753472,
-    "version":  "1.8.22-test",
+    "size":  27926528,
+    "version":  "1.8.23-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.22: Mace Helper and AutoFirework",
+    "changelog_title":  "Nerest 1.8.23: Desktop client sync",
     "changelog":  [
-                      "Restored Combat \u003e Mace Helper.",
-                      "Removed the Dropdown ClickGUI style.",
-                      "AutoFirework recognizes legacy and namespaced rocket IDs and moves inventory rockets into the hotbar before use."
+                      "Restored desktop Wings module, resources and updated Spoofer interface.",
+                      "AutoFirework now uses the normal use input after selecting a rocket.",
+                      "Hand Shaders falls back to a silhouette overlay when native rendering is unavailable."
                   ],
-    "sha256":  "BBE48581321A69E2778393761133EB69FAF7E9D78F704A56EDA354C1A1A070F3"
+    "sha256":  "68D9526126C9E01565B9FF5132B1AED595A2BD3B85A9D8B2FD1B9755FC7EB957"
 }
