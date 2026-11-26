@@ -1,13 +1,13 @@
 {
-    "size":  27738624,
-    "version":  "1.8.14-test",
+    "size":  27748352,
+    "version":  "1.8.15-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.14 test build",
+    "changelog_title":  "Nerest 1.8.15 test build",
     "changelog":  [
-                      "Mace Helper rearms after sustained ascent so it can try another smash on the next fall without landing.",
-                      "Fixed end crystal item identifier handling and added optional Auto Crystal diagnostics."
+                      "Auto Crystal: corrected the Bedrock 26.52 placement transaction signature and layout; in-game verification pending.",
+                      "Auto Crystal: rejects previously observed crystal IDs and unstable placement candidates. Mace Helper is unchanged."
                   ],
-    "sha256":  "5DED1322569E3599F123F9E8510AA7BEA069DE43231322DB0A12A43FA38E8824"
+    "sha256":  "42425603E4AF6E676EC35CD7FAB471C6E4CF349B7194FD20511167EA1F7DED30"
 }
