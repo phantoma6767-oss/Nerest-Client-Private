@@ -1,14 +1,14 @@
 {
-    "size":  27709952,
-    "version":  "1.8.9-test",
+    "size":  27696640,
+    "version":  "1.8.10-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.9 test build",
+    "changelog_title":  "Nerest 1.8.10 test build",
     "changelog":  [
-                      "Reduced ClickGUI backdrop and avatar rendering work.",
-                      "Unified white-strip GUI transitions and switched Baritone to direct movement input.",
-                      "Watermark uses RakNet latency when available; Aurora is the default Main Menu background."
+                      "Watermark and LevelInfo share measured server latency when available.",
+                      "Animated nested ClickGUI settings on open and close, removed the cat, and moved module descriptions above the panel.",
+                      "Snow is limited to ClickGUI tabs, Emote GUI, and Custom Chat; Main Menu and HUD Editor are excluded."
                   ],
-    "sha256":  "D9F8FEE64B5CA4447D34EE22F40C504B180A5FA3E2487DAF5E8A5EA39F51E97D"
+    "sha256":  "BB7FDB3350B8959A187406110B83863BB64F8EC609467522536274ABAA1E7EBF"
 }
