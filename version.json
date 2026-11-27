@@ -1,14 +1,14 @@
 {
-    "size":  28051968,
-    "version":  "1.8.31",
-    "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
-    "client_name":  "Nerest.dll",
-    "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.31: CustomChat cursor/movement lock, ClickGUI chat block & Slab/Stair BlockOverlay",
-    "changelog":  [
-                      "CustomChat now disables player movement and enables a free-moving GUI cursor when open.",
-                      "Blocked opening chat while ClickGUI is open.",
-                      "BlockOverlay now syncs with slab height (half-block) and stair L-shaped geometry."
-                  ],
-    "sha256":  "76B7BCF0729DA447B83EF6C955DDEC81CAC7E0A88618B4A3B186DD42D2F8271A"
+    "size": 28058624,
+    "version": "1.8.32",
+    "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
+    "client_name": "Nerest.dll",
+    "name": "Nerest Client",
+    "changelog_title": "Nerest 1.8.32: CustomChat cursor fix, ShulkerView restyle & AutoTotem Health Check / Swap Restore",
+    "changelog": [
+        "Fixed CustomChat cursor movement while chat is open via GrabMouseHook.",
+        "Fixed ShulkerView per-shulker item matching and restyled container to match Nametags armor slots.",
+        "Added Health Check, Min Health, Swap Occupied, and automatic offhand item restoration to AutoTotem."
+    ],
+    "sha256": "ABF67F53C20DA9C3BB1849D752AD6991DE052DECF30C1A51A0B95AEF48E2DDF4"
 }
