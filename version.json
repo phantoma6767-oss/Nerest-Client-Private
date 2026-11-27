@@ -1,16 +1,13 @@
 {
-    "size":  27975680,
-    "version":  "1.8.28",
+    "size":  27952640,
+    "version":  "1.8.29",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.28: Through Walls direct mining, Offhand Totem ShaderHands, Chat cursor & Blur animation",
+    "changelog_title":  "Nerest 1.8.29: Social GUI FPS optimization & Velora 26.52 baseUseItem",
     "changelog":  [
-                      "Regen Through Walls directly mines redstone ore through walls without breaking obstruction blocks.",
-                      "Fixed AutoFirework rocket recognition by removing flawed count/item checks.",
-                      "Added mouse cursor and mouse release when opening Custom Chat.",
-                      "Fixed Social GUI blur popping in abruptly by including background blur in the opening and closing animation.",
-                      "Enabled ShaderHands on offhand totem by fixing sprite source selection and removing invalid count checks."
+                      "Eliminated -15 FPS drop in Social GUI by reusing a persistent D2D blur bitmap and removing per-frame CPU displacement map uploads.",
+                      "Aligned GameMode::baseUseItem with Velora 26.52 (3rd trigger=0 argument in R8D and matching SEH filter)."
                   ],
-    "sha256":  "9A52180434680943C7B36A9B0639F226F022BE5CFE6B6829372AE36ED98B972A"
+    "sha256":  "1C1F3ED6E02E3FD95FEEC56BB4FAF0A2662BD4AC9557C25554B4A28E49B5523E"
 }
