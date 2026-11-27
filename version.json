@@ -1,14 +1,14 @@
 {
-    "size": 28058624,
-    "version": "1.8.32",
+    "size": 28119040,
+    "version": "1.8.33",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.8.32: CustomChat cursor fix, ShulkerView restyle & AutoTotem Health Check / Swap Restore",
+    "changelog_title": "Nerest 1.8.33: Left-Side Visuals Preview Panel",
     "changelog": [
-        "Fixed CustomChat cursor movement while chat is open via GrabMouseHook.",
-        "Fixed ShulkerView per-shulker item matching and restyled container to match Nametags armor slots.",
-        "Added Health Check, Min Health, Swap Occupied, and automatic offhand item restoration to AutoTotem."
+        "Added Preview button with 's' icon from interface-icons.ttf below categories in main GUI.",
+        "Added animated left-side Visuals Preview panel matching module settings glass style & animations.",
+        "Added live 3D preview rendering and toggles for TargetESP (with live settings), ESP, Chams, ChinaHat, Wings, CustomModel, and Nimb."
     ],
-    "sha256": "ABF67F53C20DA9C3BB1849D752AD6991DE052DECF30C1A51A0B95AEF48E2DDF4"
+    "sha256": "3FCDB3827729188874B1DDC41F589444E728909046E3B50C2645C8EC38E45888"
 }
