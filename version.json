@@ -1,14 +1,16 @@
 {
-    "size":  27975168,
-    "version":  "1.8.27",
+    "size":  27975680,
+    "version":  "1.8.28",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.27: Mining loop fix, AutoFirework crash fix & ShaderHands FL 10_1",
+    "changelog_title":  "Nerest 1.8.28: Through Walls direct mining, Offhand Totem ShaderHands, Chat cursor & Blur animation",
     "changelog":  [
-                      "Fixed Regen & OreMiner infinite mining restart loop by restoring target lock, eye height, and network break packets.",
-                      "Fixed fatal crash in AutoFirework by replacing actor->getFlag with actor->getStatusFlag(ActorFlags::Gliding).",
-                      "Fixed ShaderHands on Feature Level 10_1 GPUs by targeting vs_4_1 and ps_4_1 shaders."
+                      "Regen Through Walls directly mines redstone ore through walls without breaking obstruction blocks.",
+                      "Fixed AutoFirework rocket recognition by removing flawed count/item checks.",
+                      "Added mouse cursor and mouse release when opening Custom Chat.",
+                      "Fixed Social GUI blur popping in abruptly by including background blur in the opening and closing animation.",
+                      "Enabled ShaderHands on offhand totem by fixing sprite source selection and removing invalid count checks."
                   ],
-    "sha256":  "CF4A365BD726E7573D3081C3D29232367BA047058894BE5D84D56839A504C4D5"
+    "sha256":  "9A52180434680943C7B36A9B0639F226F022BE5CFE6B6829372AE36ED98B972A"
 }
