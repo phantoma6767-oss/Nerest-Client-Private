@@ -1,14 +1,14 @@
 {
-    "size": 28119040,
-    "version": "1.8.33",
+    "size": 28124160,
+    "version": "1.8.34",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.8.33: Left-Side Visuals Preview Panel",
+    "changelog_title": "Nerest 1.8.34: Full-Panel Visuals Preview, Wings Fix & Skeleton ESP",
     "changelog": [
-        "Added Preview button with 's' icon from interface-icons.ttf below categories in main GUI.",
-        "Added animated left-side Visuals Preview panel matching module settings glass style & animations.",
-        "Added live 3D preview rendering and toggles for TargetESP (with live settings), ESP, Chams, ChinaHat, Wings, CustomModel, and Nimb."
+        "Fixed Wings back attachment and depth sorting behind the player model.",
+        "Visuals Preview scene now fills the entire panel with a top-right Settings button to toggle/configure all visuals.",
+        "Added Skeleton ESP to the 3D Visuals Preview and toggles."
     ],
-    "sha256": "3FCDB3827729188874B1DDC41F589444E728909046E3B50C2645C8EC38E45888"
+    "sha256": "B28037050FD2A1E184EBA564E9D70896A8E375407DF7097912F59FEA9E035CE9"
 }
