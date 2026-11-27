@@ -1,14 +1,13 @@
 {
     "size": 28124160,
-    "version": "1.8.34",
+    "version": "1.8.35",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.8.34: Full-Panel Visuals Preview, Wings Fix & Skeleton ESP",
+    "changelog_title": "Nerest 1.8.35: High-Res Wings (In-Game & Preview)",
     "changelog": [
-        "Fixed Wings back attachment and depth sorting behind the player model.",
-        "Visuals Preview scene now fills the entire panel with a top-right Settings button to toggle/configure all visuals.",
-        "Added Skeleton ESP to the 3D Visuals Preview and toggles."
+        "Upscaled Wings textures 8x with crisp pixel-art sampling and high-resolution anti-aliased outline masking.",
+        "Added 3-segment curved wing geometry for smoother in-game and Visuals Preview rendering."
     ],
-    "sha256": "B28037050FD2A1E184EBA564E9D70896A8E375407DF7097912F59FEA9E035CE9"
+    "sha256": "8E0E3EFE0E7C663F1D5573E4B3929A419ACDC85F00875F710BD2A3584A4AB2BF"
 }
