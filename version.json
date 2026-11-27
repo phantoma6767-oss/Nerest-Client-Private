@@ -1,14 +1,14 @@
 {
-    "size":  27980288,
-    "version":  "1.8.26-test",
+    "size":  27975168,
+    "version":  "1.8.27",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.26: Hand contours and mining completion",
+    "changelog_title":  "Nerest 1.8.27: Mining loop fix, AutoFirework crash fix & ShaderHands FL 10_1",
     "changelog":  [
-                      "Eight exterior hand contour effects, updated offhand capture and selected pack lookup.",
-                      "Regen and OreMiner follow native break progression. Regen Through Walls targets covered redstone directly.",
-                      "AutoFirework Debug reports local rocket-use decisions in chat."
+                      "Fixed Regen & OreMiner infinite mining restart loop by restoring target lock, eye height, and network break packets.",
+                      "Fixed fatal crash in AutoFirework by replacing actor->getFlag with actor->getStatusFlag(ActorFlags::Gliding).",
+                      "Fixed ShaderHands on Feature Level 10_1 GPUs by targeting vs_4_1 and ps_4_1 shaders."
                   ],
-    "sha256":  "6DF24947D3EB7447B53A9DFCA8D984A41332967EA26E8E4263942E3D7EB94E0B"
+    "sha256":  "CF4A365BD726E7573D3081C3D29232367BA047058894BE5D84D56839A504C4D5"
 }
