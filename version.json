@@ -1,14 +1,14 @@
 {
-    "size":  27923456,
-    "version":  "1.8.25-test",
+    "size":  27980288,
+    "version":  "1.8.26-test",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.25: Hand materials and tool coverage",
+    "changelog_title":  "Nerest 1.8.26: Hand contours and mining completion",
     "changelog":  [
-                      "Stable hand materials with matching names, fixed tint and selectable resolution.",
-                      "Improved offhand item recognition and tool mask placement.",
-                      "Hotbar Animation now supplies names for the Visual module list."
+                      "Eight exterior hand contour effects, updated offhand capture and selected pack lookup.",
+                      "Regen and OreMiner follow native break progression. Regen Through Walls targets covered redstone directly.",
+                      "AutoFirework Debug reports local rocket-use decisions in chat."
                   ],
-    "sha256":  "61D8699257963B4F292E03FA95667688661E7392B514D70AC192CF5E0CBAD9BA"
+    "sha256":  "6DF24947D3EB7447B53A9DFCA8D984A41332967EA26E8E4263942E3D7EB94E0B"
 }
