@@ -1,13 +1,16 @@
 {
-    "size":  27952640,
-    "version":  "1.8.29",
+    "size":  28033536,
+    "version":  "1.8.30",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.29: Social GUI FPS optimization & Velora 26.52 baseUseItem",
+    "changelog_title":  "Nerest 1.8.30: Chams NightShader, ShulkerViewer, Zoom, MCA & Launcher version",
     "changelog":  [
-                      "Eliminated -15 FPS drop in Social GUI by reusing a persistent D2D blur bitmap and removing per-frame CPU displacement map uploads.",
-                      "Aligned GameMode::baseUseItem with Velora 26.52 (3rd trigger=0 argument in R8D and matching SEH filter)."
+                      "Updated Chams NightShader to match BlockOverlay with depth-sorted shader faces, style, hue, intensity, and quality (256/512/1024) settings.",
+                      "Added ShulkerViewer module (ported from sourceblix) for inventory hover and dropped shulker box previews.",
+                      "Added Zoom module (ported 1:1 from Velora) with native 26.52 FOV hook, smooth lerp, and mouse-wheel zoom.",
+                      "Renamed MidclickAction module to MCA.",
+                      "Launcher now displays the actual build version from version.json instead of hardcoded 1.4."
                   ],
-    "sha256":  "1C1F3ED6E02E3FD95FEEC56BB4FAF0A2662BD4AC9557C25554B4A28E49B5523E"
+    "sha256":  "FAB042F248FEC766063B9674070897BFEBCC3E41718C2DD7A6807CF9BA47D94E"
 }
