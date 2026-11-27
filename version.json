@@ -1,16 +1,14 @@
 {
-    "size":  28033536,
-    "version":  "1.8.30",
+    "size":  28051968,
+    "version":  "1.8.31",
     "download_url":  "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name":  "Nerest.dll",
     "name":  "Nerest Client",
-    "changelog_title":  "Nerest 1.8.30: Chams NightShader, ShulkerViewer, Zoom, MCA & Launcher version",
+    "changelog_title":  "Nerest 1.8.31: CustomChat cursor/movement lock, ClickGUI chat block & Slab/Stair BlockOverlay",
     "changelog":  [
-                      "Updated Chams NightShader to match BlockOverlay with depth-sorted shader faces, style, hue, intensity, and quality (256/512/1024) settings.",
-                      "Added ShulkerViewer module (ported from sourceblix) for inventory hover and dropped shulker box previews.",
-                      "Added Zoom module (ported 1:1 from Velora) with native 26.52 FOV hook, smooth lerp, and mouse-wheel zoom.",
-                      "Renamed MidclickAction module to MCA.",
-                      "Launcher now displays the actual build version from version.json instead of hardcoded 1.4."
+                      "CustomChat now disables player movement and enables a free-moving GUI cursor when open.",
+                      "Blocked opening chat while ClickGUI is open.",
+                      "BlockOverlay now syncs with slab height (half-block) and stair L-shaped geometry."
                   ],
-    "sha256":  "FAB042F248FEC766063B9674070897BFEBCC3E41718C2DD7A6807CF9BA47D94E"
+    "sha256":  "76B7BCF0729DA447B83EF6C955DDEC81CAC7E0A88618B4A3B186DD42D2F8271A"
 }
