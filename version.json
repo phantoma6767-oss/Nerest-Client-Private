@@ -1,13 +1,14 @@
 {
-    "size": 28124160,
-    "version": "1.8.35",
+    "size": 28128256,
+    "version": "1.8.36",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.8.35: High-Res Wings (In-Game & Preview)",
+    "changelog_title": "Nerest 1.8.36: TargetESP Preview Animation Fix & Velocity Hive (Flareon Bypass)",
     "changelog": [
-        "Upscaled Wings textures 8x with crisp pixel-art sampling and high-resolution anti-aliased outline masking.",
-        "Added 3-segment curved wing geometry for smoother in-game and Visuals Preview rendering."
+        "Fixed TargetESP preview effects not rotating/animating in Visuals Preview.",
+        "Removed legacy Velocity modes, keeping Full and adding a new Hive mode.",
+        "Hive Velocity bypasses The Hive Flareon prediction anti-cheat using untouched SetActorMotionPacket, ground Jump Reset, and PlayerAuthInputPacket-synced legal counter-acceleration."
     ],
-    "sha256": "8E0E3EFE0E7C663F1D5573E4B3929A419ACDC85F00875F710BD2A3584A4AB2BF"
+    "sha256": "20A8F6D4016B1AC54F821D3963BCB247B5308FF3C6C2C28830CD522FC08DCED0"
 }
