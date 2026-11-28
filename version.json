@@ -1,13 +1,13 @@
 {
-    "size": 28131840,
-    "version": "1.8.38",
+    "size": 28135424,
+    "version": "1.8.39",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.8.38: Velocity Hive Multi-Hit & Recovery Fix",
+    "changelog_title": "Nerest 1.8.39: Geyser Fly Mode (FrizMine) & Predict-Safe Velocity Hive",
     "changelog": [
-        "Fixed consecutive-hit desync in Velocity Hive Zero KB (PacketSim) by keeping simulated position continuous.",
-        "Added gravity-assisted Y recovery and smooth 0.085 XZ recovery with mMove input synchronization."
+        "Added Fly -> Geyser mode for FrizMine with safe capped motion, anti-hover micro-dip, and auto-balanced timer burst.",
+        "Updated Velocity Hive default to Predict-safe Jump Reset + Counter Strafe (with optional Zero KB PacketSim toggle)."
     ],
-    "sha256": "29A775A718BC6E6427E62338CB901C23ABFEB8393CB5F83033C2B99AF789A7F2"
+    "sha256": "48C3B3763004ECE5E53AFF7356594005977BB01A9EE52784387CAC3868145D16"
 }
