@@ -1,14 +1,12 @@
 {
-    "size": 28128256,
-    "version": "1.8.36",
+    "size": 28131328,
+    "version": "1.8.37",
     "download_url": "https://raw.githubusercontent.com/phantoma6767-oss/Nerest-Client-Private/main/Nerest.dll",
     "client_name": "Nerest.dll",
     "name": "Nerest Client",
-    "changelog_title": "Nerest 1.8.36: TargetESP Preview Animation Fix & Velocity Hive (Flareon Bypass)",
+    "changelog_title": "Nerest 1.8.37: Velocity Hive Zero KB (PacketSim)",
     "changelog": [
-        "Fixed TargetESP preview effects not rotating/animating in Visuals Preview.",
-        "Removed legacy Velocity modes, keeping Full and adding a new Hive mode.",
-        "Hive Velocity bypasses The Hive Flareon prediction anti-cheat using untouched SetActorMotionPacket, ground Jump Reset, and PlayerAuthInputPacket-synced legal counter-acceleration."
+        "Added Zero KB (PacketSim) option to Velocity Hive mode: cancels knockback locally (0% up/back) while simulating exact Bedrock knockback physics in PlayerAuthInputPacket."
     ],
-    "sha256": "20A8F6D4016B1AC54F821D3963BCB247B5308FF3C6C2C28830CD522FC08DCED0"
+    "sha256": "76BAC79A15DF729E27B45F7F92CF8FBA3EF934706742FF49969341A9D25A4A03"
 }
